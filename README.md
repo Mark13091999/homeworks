@@ -9,4 +9,5 @@ __Ольга Валерьевна__
 + первый элемент
 + второй элемент
 ~~конец списка~~
+
 ![](http://pngimg.com/uploads/bouquet/bouquet_PNG55.png)
